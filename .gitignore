@@ -1,9 +1,1 @@
-package.json
-README.md
-.gitignore
-LICENSE
-pages/
-  api/
-    create-subscription-checkout.js
-    ...
 
