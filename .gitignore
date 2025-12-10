@@ -1,11 +1,9 @@
-node_modules/
-.next/
-out/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.env
-.env.local
-.env.*.local
-.DS_Store
-Thumbs.db
+package.json
+README.md
+.gitignore
+LICENSE
+pages/
+  api/
+    create-subscription-checkout.js
+    ...
+
